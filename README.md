@@ -1,1 +1,3 @@
 # prodigy-infotech-task2-datascience-intern
+<b>Task 2: Exploratory Data Analysis (EDA) Expedition </b>
+<p>The foundation of any successful data science project is rooted in meticulous data preprocessing. During my internship, I was entrusted with the task of handling a raw dataset that presented itself as a puzzle with missing pieces. Under the guidance of experienced data scientists, I acquired expertise in the techniques of data cleaning, feature scaling, and managing missing values. Leveraging Python's libraries, I transformed the unstructured data into a organized and meaningful dataset. This endeavor underscored the importance of maintaining data integrity and imparted upon me the skills to adeptly navigate real-world data challenges.</p>
